@@ -1,0 +1,8 @@
+/*修改字体*/
+*{font-family: "Noto Sans SC";font-weight: 100;}
+/*修改默认a标签颜色*/
+a:visited,a:link{color: #2daebf;text-decoration: none;}
+a:hover{color: #f60;text-transform: none}
+/*字体大小及颜色*/
+#cnblogs_post_body p{font-size: 1rem;}
+body, textarea, input, button, select, keygen, legend{color:#7f8c93}
