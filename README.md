@@ -38,7 +38,12 @@
 
 ## 软件截图
 
-暂无待添加
+![ata试题程序截图](https://github.com/ata-demo1/ata-demo1.github.io/blob/main/Screenshot/ata-demo1.PNG "ata试题程序截图")
+![ata考试登录](https://github.com/ata-demo1/ata-demo1.github.io/blob/main/Screenshot/ata-demo2.PNG "ata考试登录")
+![进入考试](https://github.com/ata-demo1/ata-demo1.github.io/blob/main/Screenshot/ata-demo4.PNG "进入考试")
+![试题检查](https://github.com/ata-demo1/ata-demo1.github.io/blob/main/Screenshot/ata-demo3.PNG "试题检查")
+![作答题目](https://github.com/ata-demo1/ata-demo1.github.io/blob/main/Screenshot/ata-demo5.jpg "作答题目")
+![作答题目](https://github.com/ata-demo1/ata-demo1.github.io/blob/main/Screenshot/ata-demo6.jpg "作答题目")
 
 ####   最后祝各位计算机等级考试上岸🎉
 ###  好用的话点个⭐鼓励一下叭~😘
