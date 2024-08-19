@@ -34,6 +34,7 @@
 ## QQ考生\反馈交流群
 
 在这里你可以提出与软件相关的建议，亦或者是有能力的可以对软件进行二次开发
+
 高新信息技术MS_Office：480587190
 
 [加入QQ群](https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Kq066TKgGfvmMd4qe_scNq-MljhiHEOE&authKey=AOAC4bFD9qRcvKP3mluZvNUn2d1cS7AuMCoLuZBrV%2FPGqE%2F7unkCKTVmG7QjPpS4&noverify=0&group_code=480587190 "点我加入QQ群")
