@@ -13,10 +13,6 @@
 ## 打赏赞助
 7X24小时在线要饭🍚，欢迎👏各位老板打赏，打赏一分也是爱
 
-<center>
- 
-![](https://github.com/ata-demo1/ata-demo1.github.io/blob/main/pay/wx.png)![](https://github.com/ata-demo1/ata-demo1.github.io/blob/main/pay/zfb.jpg)
-</center>
 
 <figure>
     <img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/pay/wx.png" width="210px"><img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/pay/zfb.jpg" width="210px">
