@@ -4,7 +4,7 @@
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
 
-🔧这是一个基于机房内部ATA考试机Demo的美化，初衷是为了方便学生可以在个人电脑是安装ATA考试系统。
+🔧这是一个基于机房内部ATA考试机Demo的美化，并且集成了ETX考试系统与ATA-demo，初衷是为了方便学生可以在个人电脑是安装ATA考试系统。
 
 😋个人觉得ATA考试机界面太丑，在ATA考试机中添加了部分[Nekoha Shizuku（猫羽雫）](https://mzh.moegirl.org.cn/%E7%94%98%E5%9F%8ENatsuki "Nekoha Shizuku（猫羽雫）")的元素。
 
