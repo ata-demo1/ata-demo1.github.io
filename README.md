@@ -2,6 +2,7 @@
 <img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/images/Shizuku-B.png" width="210px">
 
 
+
 ## 软件介绍
 🔧这是一个基于机房内部ATA考试机Demo的美化，初衷是为了方便学生可以在个人电脑是安装ATA考试系统。
 
@@ -37,13 +38,12 @@
 [加入QQ群](https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Kq066TKgGfvmMd4qe_scNq-MljhiHEOE&authKey=AOAC4bFD9qRcvKP3mluZvNUn2d1cS7AuMCoLuZBrV%2FPGqE%2F7unkCKTVmG7QjPpS4&noverify=0&group_code=480587190 "点我加入QQ群")
 
 ## 软件截图
-
-![ata试题程序截图](https://github.com/ata-demo1/ata-demo1.github.io/blob/main/Screenshot/ata-demo1.PNG "ata试题程序截图")
-![ata考试登录](https://github.com/ata-demo1/ata-demo1.github.io/blob/main/Screenshot/ata-demo2.PNG "ata考试登录")
-![进入考试](https://github.com/ata-demo1/ata-demo1.github.io/blob/main/Screenshot/ata-demo4.PNG "进入考试")
-![试题检查](https://github.com/ata-demo1/ata-demo1.github.io/blob/main/Screenshot/ata-demo3.PNG "试题检查")
-![作答题目](https://github.com/ata-demo1/ata-demo1.github.io/blob/main/Screenshot/ata-demo5.jpg "作答题目")
-![作答题目](https://github.com/ata-demo1/ata-demo1.github.io/blob/main/Screenshot/ata-demo6.jpg "作答题目")
+<img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/Screenshot/ata-demo1.PNG" alt="ata试题程序截图" width="210px">
+<img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/Screenshot/ata-demo2.PNG" alt="ata考试登录" width="210px">
+<img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/Screenshot/ata-demo4.PNG" alt="进入考试" width="210px">
+<img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/Screenshot/ata-demo3.PNG" alt="试题检查" width="210px">
+<img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/Screenshot/ata-demo5.jpg" alt="作答题目" width="210px">
+<img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/Screenshot/ata-demo6.jpg" alt="作答题目" width="210px">
 
 ####   最后祝各位计算机等级考试上岸🎉
 ###  好用的话点个⭐鼓励一下叭~😘
