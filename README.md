@@ -12,20 +12,9 @@
 💡程序本身只包含2套办公软件应用（MS-Office应用）中级、高级各一套的测试试题文件，如果广大考生需要其他项目模拟试题，**请联系考试站对接的ATA业务销售获取或从其他授权经销商渠道购买**
 ## 打赏赞助
 7X24小时在线要饭🍚，欢迎👏各位老板打赏，打赏一分也是爱
-<figure>
-    <img src="https://pic.imge.cc/2024/08/19/66c32ee127185.png" alt="左边的图片描述">
-    <figcaption>这是左边的图片描述。</figcaption>
-</figure>
-
-<figure>
-    <img src="https://pic.imge.cc/2024/08/19/66c32ee127185.png" alt="中间的图片描述">
-    <figcaption>这是中间的图片描述。</figcaption>
-</figure>
-
-<figure>
-    <img src="https://pic.imge.cc/2024/08/19/66c32ee127185.png" alt="右边的图片描述">
-    <figcaption>这是右边的图片描述。</figcaption>
-</figure>
+<center>
+ ![](https://img2018.cnblogs.com/blog/1735896/202001/1735896-20200116162140471-237299356.png)![](https://img2018.cnblogs.com/blog/1735896/202001/1735896-20200116162142968-297860512.png)
+</center>
 
 ## 使用说明
 1. 运行“自动安装.bat”
