@@ -38,12 +38,12 @@
 [加入QQ群](https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Kq066TKgGfvmMd4qe_scNq-MljhiHEOE&authKey=AOAC4bFD9qRcvKP3mluZvNUn2d1cS7AuMCoLuZBrV%2FPGqE%2F7unkCKTVmG7QjPpS4&noverify=0&group_code=480587190 "点我加入QQ群")
 
 ## 软件截图
-<img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/Screenshot/ata-demo1.PNG" alt="ata试题程序截图" width="210px">
-<img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/Screenshot/ata-demo2.PNG" alt="ata考试登录" width="210px">
-<img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/Screenshot/ata-demo4.PNG" alt="进入考试" width="210px">
-<img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/Screenshot/ata-demo3.PNG" alt="试题检查" width="210px">
-<img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/Screenshot/ata-demo5.jpg" alt="作答题目" width="210px">
-<img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/Screenshot/ata-demo6.jpg" alt="作答题目" width="210px">
+<img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/Screenshot/ata-demo1.PNG" alt="ata试题程序截图" width="310px">
+<img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/Screenshot/ata-demo2.PNG" alt="ata考试登录" width="310px">
+<img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/Screenshot/ata-demo4.PNG" alt="进入考试" width="310px">
+<img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/Screenshot/ata-demo3.PNG" alt="试题检查" width="310px">
+<img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/Screenshot/ata-demo5.jpg" alt="作答题目" width="310px">
+<img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/Screenshot/ata-demo6.jpg" alt="作答题目" width="310px">
 
 ####   最后祝各位计算机等级考试上岸🎉
 ###  好用的话点个⭐鼓励一下叭~😘
