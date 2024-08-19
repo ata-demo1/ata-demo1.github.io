@@ -14,7 +14,7 @@
 7X24小时在线要饭🍚，欢迎👏各位老板打赏，打赏一分也是爱
 
 <figure>
-    <img src="https://gitee.com/bemylover/ata_demo/raw/master/pay/wx.jfif"  width="210px"><img src="https://gitee.com/bemylover/ata_demo/raw/master/pay/zfb.jfif" width="210px">
+    <img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/pay/wx.png" width="210px"><img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/pay/zfb.jpg" width="210px">
 </figure>
 
 ## 使用说明
