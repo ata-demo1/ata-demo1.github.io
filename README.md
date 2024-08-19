@@ -1,5 +1,5 @@
 # ATA模拟考试系统（猫羽雫）
-<img src="https://gitee.com/bemylover/ata_demo/raw/master/images/Shizuku-B.jfif" width="210px">
+<img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/images/Shizuku-B.png" width="210px">
 
 
 ## 软件介绍
