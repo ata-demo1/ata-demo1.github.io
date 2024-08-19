@@ -37,6 +37,7 @@
 
 [加入QQ群](https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Kq066TKgGfvmMd4qe_scNq-MljhiHEOE&authKey=AOAC4bFD9qRcvKP3mluZvNUn2d1cS7AuMCoLuZBrV%2FPGqE%2F7unkCKTVmG7QjPpS4&noverify=0&group_code=480587190 "点我加入QQ群")
 
+* * *
 
 ####   最后祝各位计算机等级考试上岸🎉
 ###  好用的话点个⭐鼓励一下叭~😘
