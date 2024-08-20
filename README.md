@@ -35,28 +35,30 @@
 ### 1. 模拟引擎ETXClient系统安装
 
 1. [点击下载ETXClient.zip](https://asset.ata-test.net.cn/release/etxfile/download/ETXClient.zip "ETXClient.zip")，下载完成后解压并安装
-
+<img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/InstallScreenshot/install1.PNG" width="410px">
 3. 选择适合您的语言，然后点”OK“进行安装
-
+<img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/InstallScreenshot/install2.PNG" width="410px">
 5. 点下一步安装
-
+<img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/InstallScreenshot/instal3.PNG" width="410px">
 7. 选择安装位置，请确保所选安装目录大于438.2MB存储空间
-
+<img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/InstallScreenshot/instal4.PNG" width="410px">
 9. 至此当您看到这个界面就已经完成对ATA模拟引擎的安装
-
+<img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/InstallScreenshot/instal5.PNG" width="410px">
 ### 2. ATA-Demo试题程序的安装
 
 1. [点击下载ATA-Demo程序](https://github.com/ata-demo1/ata-demo1.github.io/releases/download/1.0.0-alpha/ata-demo-withoutcore-1.0.0-alpha.zip "点击下载ATA-Demo程序")，下载完成后解压
 
-3.  运行“自动安装.bat”
+2. 运行“自动安装.bat”
+<img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/InstallScreenshot/install5.PNG" width="410px">
+3. 在提示”按下回车键代表您已经退出或者卸载了杀毒软件...“的时候，请按下”回车键“（Enter键）以便继续安装
+<img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/InstallScreenshot/install6.PNG" width="410px">
+4. 当出现这个界面就代表安装成功
+<img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/InstallScreenshot/install.PNG" width="410px">
+5. 安装完成后会自动打开，如果没有请手动启动程序
 
-5. 在提示”按下回车键代表您已经退出或者卸载了杀毒软件...“的时候，请按下”回车键“（Enter键）以便继续安装
+6. 选择需要练习的试卷，点开始
 
-8. 安装完成后会自动打开，如果没有请手动启动程序
-
-10. 选择需要练习的试卷，点开始
-
-12. 在登录页的准考证输入框中输入“demo”并登录
+7. 在登录页的准考证输入框中输入“demo”并登录
 
 ## 电脑配置要求
 ##### 支持系统 : Windows XP | Windows 7 | Windows 10 | Windows 11
