@@ -62,6 +62,7 @@
     5. 安装完成后会自动打开，如果没有请手动启动程序
 <img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/Screenshot/ata-demo1.PNG" width="410px">
     6. 选择需要练习的试卷，点开始
+ 
     7. 在登录页的准考证输入框中输入“demo”并登录
 <img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/Screenshot/ata-demo2.PNG" width="410px">
 
