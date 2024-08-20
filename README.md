@@ -34,19 +34,19 @@
 
 ### 1. 模拟引擎ETXClient系统安装
 
-[点击下载ETXClient.zip](https://asset.ata-test.net.cn/release/etxfile/download/ETXClient.zip "ETXClient.zip")，下载完成后解压并安装
+1.[点击下载ETXClient.zip](https://asset.ata-test.net.cn/release/etxfile/download/ETXClient.zip "ETXClient.zip")，下载完成后解压并安装
 
 <img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/InstallScreenshot/install1.PNG" width="410px">
 
-选择适合您的语言，然后点”OK“进行安装
+2.选择适合您的语言，然后点”OK“进行安装
 
 <img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/InstallScreenshot/install2.PNG" width="410px">
 
-点下一步安装
+3.点下一步安装
 
 <img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/InstallScreenshot/install3.PNG" width="410px">
 
-至此当您看到这个界面就已经完成对ATA模拟引擎的安装
+4.至此当您看到这个界面就已经完成对ATA模拟引擎的安装
 
 <img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/InstallScreenshot/install4.PNG" width="410px">
 
