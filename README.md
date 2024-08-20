@@ -52,8 +52,8 @@
 
 ### 2. ATA-Demo试题程序的安装
 
-    1. [点击下载ATA-Demo程序](https://github.com/ata-demo1/ata-demo1.github.io/releases/download/1.0.0-alpha/ata-demo-withoutcore-1.0.0-alpha.zip "点击下载ATA-Demo程序")，下载完成后解压
-    2. 运行“自动安装.bat”
+1. [点击下载ATA-Demo程序](https://github.com/ata-demo1/ata-demo1.github.io/releases/download/1.0.0-alpha/ata-demo-withoutcore-1.0.0-alpha.zip "点击下载ATA-Demo程序")，下载完成后解压
+2. 运行“自动安装.bat”
 <img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/InstallScreenshot/install5.PNG" width="410px">
     3. 在提示”按下回车键代表您已经退出或者卸载了杀毒软件...“的时候，请按下”回车键“（Enter键）以便继续安装
 <img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/InstallScreenshot/install6.PNG" width="410px">
