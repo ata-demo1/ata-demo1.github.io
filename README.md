@@ -18,18 +18,45 @@
     <img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/pay/wx.png" width="210px"><img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/pay/zfb.jpg" width="210px">
 </figure>
 
-## 使用说明
-1. 运行“自动安装.bat”
+## QQ考生\反馈交流群
 
-2. 在提示”按下回车键代表您已经退出或者卸载了杀毒软件...“的时候，请按下”回车键“（Enter键）以便继续安装
+在这里你可以提出与软件相关的建议，亦或者是有能力的可以对软件进行二次开发
 
-3. 会弹出ATA引擎安装窗口，手动安装即可，如果没有弹出请检查状态栏
+高新信息技术MS_Office：480587190
 
-4. 在安装ATA引擎的同时，脚本会自动安装ATA试题软件，并打开，请在引擎安装完毕之后再选择ATA试题软件中的试题进行练习，否则会报错
+[加入QQ群](https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Kq066TKgGfvmMd4qe_scNq-MljhiHEOE&authKey=AOAC4bFD9qRcvKP3mluZvNUn2d1cS7AuMCoLuZBrV%2FPGqE%2F7unkCKTVmG7QjPpS4&noverify=0&group_code=480587190 "点我加入QQ群")
 
-5. 选择需要练习的试卷，点开始
+## 安装教程
+<font color=red size=5>安装前请先确保已经卸载或者关闭各类杀毒软件，如果被报毒请信任或者允许！！！</font>
+<br>
+<font color=red size=3>如果提示”文件存在潜在的病毒或者垃圾“，Windows 11请打开”设置“>“隐私和安全”>”Windows安全中心“>”病毒和威胁防护“>””病毒和威胁防护“设置“>”管理设置“，关闭实时保护</font>
+<br>
 
-6. 在登录页的准考证输入框中输入“demo”并登录
+### 1. 模拟引擎ETXClient系统安装
+
+1. [点击下载ETXClient.zip](https://asset.ata-test.net.cn/release/etxfile/download/ETXClient.zip "ETXClient.zip")，下载完成后解压并安装
+
+3. 选择适合您的语言，然后点”OK“进行安装
+
+5. 点下一步安装
+
+7. 选择安装位置，请确保所选安装目录大于438.2MB存储空间
+
+9. 至此当您看到这个界面就已经完成对ATA模拟引擎的安装
+
+### 2. ATA-Demo试题程序的安装
+
+1. [点击下载ATA-Demo程序](https://github.com/ata-demo1/ata-demo1.github.io/releases/download/1.0.0-alpha/ata-demo-withoutcore-1.0.0-alpha.zip "点击下载ATA-Demo程序")，下载完成后解压
+
+3.  运行“自动安装.bat”
+
+5. 在提示”按下回车键代表您已经退出或者卸载了杀毒软件...“的时候，请按下”回车键“（Enter键）以便继续安装
+
+8. 安装完成后会自动打开，如果没有请手动启动程序
+
+10. 选择需要练习的试卷，点开始
+
+12. 在登录页的准考证输入框中输入“demo”并登录
 
 ## 电脑配置要求
 ##### 支持系统 : Windows XP | Windows 7 | Windows 10 | Windows 11
@@ -68,14 +95,6 @@
 **6、其他问题或按照上面方法都无法解决的时候？**
 
 答：请重新下载练习盘，然后把所有杀毒软件关闭。后解压练习盘再安装引擎。
-
-## QQ考生\反馈交流群
-
-在这里你可以提出与软件相关的建议，亦或者是有能力的可以对软件进行二次开发
-
-高新信息技术MS_Office：480587190
-
-[加入QQ群](https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Kq066TKgGfvmMd4qe_scNq-MljhiHEOE&authKey=AOAC4bFD9qRcvKP3mluZvNUn2d1cS7AuMCoLuZBrV%2FPGqE%2F7unkCKTVmG7QjPpS4&noverify=0&group_code=480587190 "点我加入QQ群")
 
 ###   最后祝各位计算机等级考试上岸🎉
 ##  好用的话点个⭐鼓励一下叭~😘
