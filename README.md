@@ -52,7 +52,7 @@
 
 ### 2. ATA-Demo试题程序的安装
 
-1. [点击下载ATA-Demo程序](https://github.com/ata-demo1/ata-demo1.github.io/releases/download/1.0.0-alpha/ata-demo-withoutcore-1.0.0-alpha.zip "点击下载ATA-Demo程序")，下载完成后解压
+1. [点击下载ATA-Demo程序](https://github.com/ata-demo1/ata-demo1.github.io/releases/download/v1.1.0-alpha/ATA-Demo-WithoutCore-1.1.0-alpha.zip "点击下载ATA-Demo程序")，下载完成后解压
 
 2. 运行“自动安装.bat”
 <img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/InstallScreenshot/install5.PNG" width="410px">
