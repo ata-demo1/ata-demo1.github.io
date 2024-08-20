@@ -1,7 +1,7 @@
 # ATA模拟考试系统（猫羽雫）
 <img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/images/Shizuku-B.png" width="210px">
 
-
+[国内用户点我进入Gitee，可以防止Github打不开不稳定图片加载不出来的问题](https://gitee.com/bemylover/ATA-Demo "国内用户点我进入Gitee，可以防止Github打不开不稳定图片加载不出来的问题")
 
 ## 软件介绍
 🔧这是一个基于机房内部ATA考试机Demo的美化，初衷是为了方便学生可以在个人电脑是安装ATA考试系统。
