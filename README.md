@@ -59,12 +59,15 @@
 3. 在提示”按下回车键代表您已经退出或者卸载了杀毒软件...“的时候，请按下”回车键“（Enter键）以便继续安装
 <img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/InstallScreenshot/install6.PNG" width="410px">
 4. 当出现这个界面就代表安装成功
-<img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/InstallScreenshot/install.PNG" width="410px">
+<img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/InstallScreenshot/install7.PNG" width="410px">
 5. 安装完成后会自动打开，如果没有请手动启动程序
-
+<img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/Screenshot/ata-demo1.PNG" width="410px">
 6. 选择需要练习的试卷，点开始
 
 7. 在登录页的准考证输入框中输入“demo”并登录
+<img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/Screenshot/ata-demo2.PNG" width="410px">
+
+**教程结束**
 
 ## 电脑配置要求
 ##### 支持系统 : Windows XP | Windows 7 | Windows 10 | Windows 11
