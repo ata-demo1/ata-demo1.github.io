@@ -36,14 +36,15 @@
 
 1. [点击下载ETXClient.zip](https://asset.ata-test.net.cn/release/etxfile/download/ETXClient.zip "ETXClient.zip")，下载完成后解压并安装
 <img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/InstallScreenshot/install1.PNG" width="410px">
-3. 选择适合您的语言，然后点”OK“进行安装
+2. 选择适合您的语言，然后点”OK“进行安装
 <img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/InstallScreenshot/install2.PNG" width="410px">
-5. 点下一步安装
+3. 点下一步安装
 <img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/InstallScreenshot/install3.PNG" width="410px">
-7. 选择安装位置，请确保所选安装目录大于438.2MB存储空间
+4. 选择安装位置，请确保所选安装目录大于438.2MB存储空间
 <img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/InstallScreenshot/install4.PNG" width="410px">
-9. 至此当您看到这个界面就已经完成对ATA模拟引擎的安装
+5. 至此当您看到这个界面就已经完成对ATA模拟引擎的安装
 <img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/InstallScreenshot/install5.PNG" width="410px">
+
 ### 2. ATA-Demo试题程序的安装
 
 1. [点击下载ATA-Demo程序](https://github.com/ata-demo1/ata-demo1.github.io/releases/download/1.0.0-alpha/ata-demo-withoutcore-1.0.0-alpha.zip "点击下载ATA-Demo程序")，下载完成后解压
