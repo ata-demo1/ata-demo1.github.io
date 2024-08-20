@@ -66,6 +66,8 @@
 <img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/Screenshot/ata-demo2.PNG" width="410px">
 
 **教程结束**
+###   最后祝各位计算机等级考试上岸🎉
+##  好用的话点个⭐鼓励一下叭~😘
 
 ## 电脑配置要求
 ##### 支持系统 : Windows XP | Windows 7 | Windows 10 | Windows 11
@@ -104,9 +106,6 @@
 **6、其他问题或按照上面方法都无法解决的时候？**
 
 答：请重新下载练习盘，然后把所有杀毒软件关闭。后解压练习盘再安装引擎。
-
-###   最后祝各位计算机等级考试上岸🎉
-##  好用的话点个⭐鼓励一下叭~😘
 
 ## 软件截图
 <img src="https://github.com/ata-demo1/ata-demo1.github.io/blob/main/Screenshot/ata-demo1.PNG" alt="ata试题程序截图" width="310px">
