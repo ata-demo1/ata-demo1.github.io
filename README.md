@@ -60,7 +60,7 @@
 
 ## 电脑配置要求
 ##### 支持系统 : Windows XP | Windows 7 | Windows 10 | Windows 11
-##### 软件大小 : 36.2 MB
+##### 软件大小 : 170 MB（ETX引擎+ATA-Demo）
 ##### 内存 : 最低1G | 推荐2G以上
 ##### 硬盘 : 10GB以上可用空间
 ##### CPU : Intel Core I3以上
