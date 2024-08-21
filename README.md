@@ -26,6 +26,18 @@
 
 [加入QQ群](https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Kq066TKgGfvmMd4qe_scNq-MljhiHEOE&authKey=AOAC4bFD9qRcvKP3mluZvNUn2d1cS7AuMCoLuZBrV%2FPGqE%2F7unkCKTVmG7QjPpS4&noverify=0&group_code=480587190 "点我加入QQ群")
 
+## 电脑配置要求
+##### 支持系统 : Windows XP | Windows 7 | Windows 10 | Windows 11
+##### 软件大小 : 170 MB（ETX引擎+ATA-Demo）
+##### 内存 : 最低1G | 推荐2G以上
+##### 硬盘 : 10GB以上可用空间
+##### CPU : Intel Core I3以上
+##### 网卡 : 100M自适应网卡
+##### 显存 : 最低2M | 推荐8M以上
+##### 显卡 : 支持1024*768 | 32位真彩色
+##### 显示器 : 普通17寸以上彩色显示器
+##### 其他 : 如有硬盘保护卡，必须设置为不还原
+
 ## 安装教程
 <font color=red size=5>安装前请先确保已经卸载或者关闭各类杀毒软件，如果被报毒请信任或者允许！！！</font>
 <br>
@@ -68,18 +80,6 @@
 **教程结束**
 ###   最后祝各位计算机等级考试上岸🎉
 ##  好用的话点个⭐鼓励一下叭~😘
-
-## 电脑配置要求
-##### 支持系统 : Windows XP | Windows 7 | Windows 10 | Windows 11
-##### 软件大小 : 170 MB（ETX引擎+ATA-Demo）
-##### 内存 : 最低1G | 推荐2G以上
-##### 硬盘 : 10GB以上可用空间
-##### CPU : Intel Core I3以上
-##### 网卡 : 100M自适应网卡
-##### 显存 : 最低2M | 推荐8M以上
-##### 显卡 : 支持1024*768 | 32位真彩色
-##### 显示器 : 普通17寸以上彩色显示器
-##### 其他 : 如有硬盘保护卡，必须设置为不还原
 
 
 ## 常见问题答疑：
